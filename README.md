@@ -1,5 +1,5 @@
 
-# Biblioteca API
+# Biblioteca API 📚
 
 Esta API teve como objetivo realizar um controle de empréstimos de uma biblioteca, onde teremos dois tipos de usuários com finalidades diferentes.
 - O Administrador irá gerenciar o sistema, realizando CRUD de Livros, Cópias de livros e Empréstimos;
